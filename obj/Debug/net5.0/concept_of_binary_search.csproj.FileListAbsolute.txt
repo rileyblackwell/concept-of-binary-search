@@ -1,0 +1,16 @@
+C:\Users\riley\Dev\concept_of_binary_search\bin\Debug\net5.0\concept_of_binary_search.exe
+C:\Users\riley\Dev\concept_of_binary_search\bin\Debug\net5.0\concept_of_binary_search.deps.json
+C:\Users\riley\Dev\concept_of_binary_search\bin\Debug\net5.0\concept_of_binary_search.runtimeconfig.json
+C:\Users\riley\Dev\concept_of_binary_search\bin\Debug\net5.0\concept_of_binary_search.runtimeconfig.dev.json
+C:\Users\riley\Dev\concept_of_binary_search\bin\Debug\net5.0\concept_of_binary_search.dll
+C:\Users\riley\Dev\concept_of_binary_search\bin\Debug\net5.0\ref\concept_of_binary_search.dll
+C:\Users\riley\Dev\concept_of_binary_search\bin\Debug\net5.0\concept_of_binary_search.pdb
+C:\Users\riley\Dev\concept_of_binary_search\obj\Debug\net5.0\concept_of_binary_search.csproj.AssemblyReference.cache
+C:\Users\riley\Dev\concept_of_binary_search\obj\Debug\net5.0\concept_of_binary_search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riley\Dev\concept_of_binary_search\obj\Debug\net5.0\concept_of_binary_search.AssemblyInfoInputs.cache
+C:\Users\riley\Dev\concept_of_binary_search\obj\Debug\net5.0\concept_of_binary_search.AssemblyInfo.cs
+C:\Users\riley\Dev\concept_of_binary_search\obj\Debug\net5.0\concept_of_binary_search.csproj.CoreCompileInputs.cache
+C:\Users\riley\Dev\concept_of_binary_search\obj\Debug\net5.0\concept_of_binary_search.dll
+C:\Users\riley\Dev\concept_of_binary_search\obj\Debug\net5.0\ref\concept_of_binary_search.dll
+C:\Users\riley\Dev\concept_of_binary_search\obj\Debug\net5.0\concept_of_binary_search.pdb
+C:\Users\riley\Dev\concept_of_binary_search\obj\Debug\net5.0\concept_of_binary_search.genruntimeconfig.cache
